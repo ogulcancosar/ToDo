@@ -4,6 +4,8 @@
     ViewData["Title"] = "Home Page";
 }
 <script>
+    //Sayfa ilk açıldığında eğer aynı dakikada içersinde bir todo varsa uyarı verileek şekilde düşünüldü
+    
     @if (Model.Todos.Any(x=>x.DueDate.ToString("MM/dd/yyyy HH:mm") == DateTime.Now.ToString("MM/dd/yyyy HH:mm")))
     {
     <text>
