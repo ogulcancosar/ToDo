@@ -1,0 +1,13 @@
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.deps.json
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.runtimeconfig.json
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.runtimeconfig.dev.json
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.dll
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.pdb
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.DataManagement.dll
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\bin\Debug\netcoreapp2.0\Inveon.DataManagement.pdb
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\obj\Debug\netcoreapp2.0\Inveon.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\obj\Debug\netcoreapp2.0\Inveon.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\obj\Debug\netcoreapp2.0\Inveon.AssemblyInfoInputs.cache
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\obj\Debug\netcoreapp2.0\Inveon.AssemblyInfo.cs
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\obj\Debug\netcoreapp2.0\Inveon.dll
+C:\Users\Ahmet Erol Kalkışım\Documents\Visual Studio 2017\Projects\Inveon\Inveon\obj\Debug\netcoreapp2.0\Inveon.pdb
